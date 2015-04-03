@@ -2,20 +2,11 @@
 
 ### Offre en cours : 
 
-**[UPDATE] Printemps 2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015.
-
-- [Stage Développeur Web](Stage-developpeur-web.md). Le sujet du stage sera un projet open-source, le plus souvent au profit d'une association locale à but culturel, social ou sportif.
-- [Stage Assistant chef de projet web](Stage-Assistant-chef-de-projet-web.md). 
+- [CDI Développeur Symfony](CDI-Developpeur-symfony.md)
 
 ### Offres récentes : 
 
 **[UPDATE] Printemps 2015** : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
-
-Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvertes :
-
-- ~~[CDI Intégrateur Développeur Front-end](CDI-Integrateur-Developpeur-Front-End.md)~~
-- ~~[CDI Développeur Web](CDI-Developpeur-web.md)~~
-
 
 ## Se recontrer
 
@@ -23,11 +14,13 @@ Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvert
 
 ## L'agence en quelques liens
 
-Les Polypodes, agence web nantaise créée en 2005.
+AppVentus, agence web nantaise créée en 2012.
 
-- [le site de l'agence](http://lespolypodes.com)
-- [le blog de l'équipe](http://lespolypodes.tumblr.com)
-- [le Twitter](https://twitter.com/lespolypodes)
-- [nos projets et contributions open-source (Github)](https://github.com/polypodes)
+- [le site de l'agence](http://www.appventus.com)
+- [le blog de l'équipe](http://www.appventus.com/blog)
+- [Twitter](https://twitter.com/AppVentus)
+- [Facebook](https://facebook.com/appventus)
+- [LinkedIn](https://www.linkedin.com/company/2451551)
+- [nos projets et contributions open-source (Github)](https://github.com/AppVentus)
 
 
