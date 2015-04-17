@@ -3,14 +3,9 @@
 ### Offre en cours : 
 
 - [CDI Développeur Symfony](CDI-Developpeur-symfony.md)
+- Stage Développeur Symfony 
 
-### Offres récentes : 
-
-**[UPDATE] Printemps 2015** : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
-
-## Se recontrer
-
-- Soyez malin(e)s : [Préparer votre entretien comme un chef](https://github.com/polypodes/Join-Us/blob/master/BraceYourself.md)
+## [Préparez votre entretien](BraceYourself.md) (ou pas :))
 
 ## L'agence en quelques liens
 
