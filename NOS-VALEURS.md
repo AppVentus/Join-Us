@@ -8,6 +8,8 @@ La liberté et l'égalité entre tous sont des valeurs chères aux yeux de chaqu
 
 `[Leny]` Cet extrait fait partie du livre [http://liberteetcie.com/](http://liberteetcie.com/) que mon ami [Ludovic Simon](https://twitter.com/ludosim) m'a offert un soir de 2014. Ce livre a m'a redonnée confiance et a completé la vision que je me faisais de l'entreprise dans laquelle je voulais travailler et surtout de ce que je devais faire pour libérer la mienne. Si ce livre ou même ce courant nouveau vous est étranger, je vous conseille fortement à acheter ce livre ([10€ au format poche](http://www.amazon.fr/Libert%C3%A9-Cie-libert%C3%A9-salari%C3%A9s-entreprises/dp/2081290987)) et à le dévorer pour prendre conscience (ou pas) de ce qui pourrait vous rendre (vraiment) heureux au travail !
 
+Un autre livre que je vous conseille aussi, c'est [Reinventing Organizations](http://www.reinventingorganizations.com/), il rentre BEAUCOUP BEAUCOUP plus en détails, dissèque l'holacratie et les différentes façons de réinventer les organisations de demain. De plus, et si vous ne voulez pas attendre le bouquin avant d'en entendre plus sur ces systèmes émergeants, allez matter cette [conférence de Frédéric Laloux](https://www.youtube.com/watch?v=NZKqPoQiaDE).
+
 ## NO BULLSHIT
 
 Pas une semaine ne passe sans que ce slogan ne résonne entre les murs de l'agence. Quelques phrases pèle mèle qui expliquent peut-être notre rapport avec le bullshit :
