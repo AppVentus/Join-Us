@@ -20,7 +20,9 @@ Tu participes activement à la communauté Open Source comme le montre ton profi
 ##Technologies apportant un plus au profil :
 
 - Behat ;
+- MongoDB
 - Docker ;
+- AWS
 - Capistrano ;
 - ElasticSearch ;
 - jQuery ;
@@ -49,6 +51,7 @@ Tu participes activement à la communauté Open Source comme le montre ton profi
 - Domain pattern
 - Formation
 - Open source
+
 ---
 
 ##Rémunération :
