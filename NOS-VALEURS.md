@@ -36,8 +36,8 @@ Nous sommes fiers de ce que nous faisons car nos choix sont réfléchis, aliment
 ![Cohésion](http://i.giphy.com/l49Fvtrx3LEsbKNZS.gif)
 ### VÉRITABLE ÉCOUTE
 ![Écoute](http://i.giphy.com/3oWgPmoDn1pte.gif)
-### RESPET
-![respet](http://i.giphy.com/zgIh1DlAQOPWU.gif)
+### RESPECT
+![respect](http://i.giphy.com/zgIh1DlAQOPWU.gif)
 ### ENTRAIDE
 ![Entraide](http://i.giphy.com/YWqL2R73Pv9Is.gif)
 ### COMMUNICATION NON VIOLENTE
