@@ -29,3 +29,16 @@ L'humilité est une autre valeur importante chez nous et on se rend compte que l
 ## FIERTÉ
 
 Nous sommes fiers de ce que nous faisons car nos choix sont réfléchis, alimentés par notre passion et que nous essayons sans cesse. Nous acceptons l'échec et acceptons la remise en cause et ne regrettons **jamais** aucun choix, on garde à l'esprit qu'on apprend tous les jours et on essaye juste d'en tirer humblement et simplement les enseignements.
+
+#MAIS AUSSI
+
+### COHÉSION
+![Cohésion](http://i.giphy.com/l49Fvtrx3LEsbKNZS.gif)
+### VÉRITABLE ÉCOUTE
+![Écoute]http://i.giphy.com/3oWgPmoDn1pte.gif)
+### RESPET
+![respet](http://i.giphy.com/zgIh1DlAQOPWU.gif)
+### ENTRAIDE
+![Entraide](http://i.giphy.com/YWqL2R73Pv9Is.gif)
+### COMMUNICATION NON VIOLENTE
+![Communication non violente](http://i.giphy.com/XgQeL3TJ9MEb6.gif)
