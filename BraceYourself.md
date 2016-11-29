@@ -1,11 +1,11 @@
 # Préparez-vous
 
-*Résumé* : Ce document modifié par l'Agence [AppVentus](http://appventus.com) sur une idée originale de l'Agence [Les Polypodes](http://lespolypodes.com/) propose quelques conseils pratiques pour préparer son entretien d'embauche, pour un stage ou un emploi.
+*Résumé* : Ce document modifié par l'Agence [Troopers](https://troopers.agency) sur une idée originale de l'Agence [Les Polypodes](http://lespolypodes.com/) propose quelques conseils pratiques pour préparer son entretien d'embauche, pour un stage ou un emploi.
 
 * version : 1.0.0
 * auteurs : 
 * - [Ronan Guilloux](mailto:ronan@lespolypodes.com), [Les Polypodes](http://lespolypodes.com/) SARL (Nantes, France)
-* - [Leny BERNARD](mailto:contact@appventus.com), [AppVentus](http://appventus.com)
+* - [Leny BERNARD](mailto:contact@troopers.email), [Troopers](https://troopers.agency)
 * licence : [CC by-sa 3.0 fr](http://creativecommons.org/licenses/by-sa/3.0/fr/)
 
 

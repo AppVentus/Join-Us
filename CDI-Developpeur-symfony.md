@@ -1,6 +1,6 @@
 Nous sommes à la recherche d'un nouveau développeur (h/f) de talent pour augmenter notre équipe. Poste  à pourvoir sur Nantes (quartier des Olivettes, à deux pas de La Cantine Numérique).
 
-Chez Appventus, nous croyons en la libération de l'entreprise, aussi chaque collaborateur participe,  en responsabilité,  au développement de l'agence, aux reflexions  stratégiques  et à l'augmentation des connaissances.
+Chez Troopers, nous croyons en la libération de l'entreprise, aussi chaque collaborateur participe,  en responsabilité,  au développement de l'agence, aux reflexions  stratégiques  et à l'augmentation des connaissances.
 
 ##Profil :
 
@@ -67,4 +67,4 @@ Selon profil et expérience entre 25 et 40 k€
 - Formation interne ;
 - Salle de jeux (console / baby foot :soccer:)
 
-Tu es intéressé, contact@appventus.com
+Tu es intéressé, contact@troopers.email
