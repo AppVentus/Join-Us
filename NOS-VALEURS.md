@@ -2,7 +2,7 @@
 
 ## LIBERTÉ (ÉGALITÉ, FRATERNITÉ)
 
-La liberté et l'égalité entre tous sont des valeurs chères aux yeux de chaque personne travaillant chez AppVentus.
+La liberté et l'égalité entre tous sont des valeurs chères aux yeux de chaque personne travaillant chez Troopers.
 
 > Notre société a érigé la liberté comme l'une de ses valeurs cardinales, censée gouverner notre système politique comme nos vies privées. Les patrons sont souvent les premiers à vanter ses vertus, en faisant un pilier du capitalisme. Mais ces belles paroles s'arrêtent net à la porte des entreprises : dans le monde du travail, la hiérarchie, le contrôle, la surveillance continue semblent bien demeurer la règle. Pourtant, l'enquête de Brian Carney et d'Isaac Getz montre qu'il existe une autre manière d'agir et nous invite dans des entreprises où la liberté est devenue le principe de management. On y laisse les salariés prendre des initiatives au lieu de leur dire comment faire. On les traite en adultes responsables au lieu de limiter les informations dont ils disposent et de faire contrôler chacun de leurs faits et gestes par une hiérarchie pléthorique. On encourage la prise de risque. Situées en France, aux États-Unis, au Japon ou en Finlande, ces entreprises ont été « libérées » par des dirigeants visionnaires qui ont totalement révolutionné la culture de leurs firmes. Et en même temps, leur rentabilité a explosé. Nous sommes à l'aube d'une nouvelle ère du management.
 
