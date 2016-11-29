@@ -12,7 +12,6 @@ Depuis 2013, l'Agence s'est lancée dans la création de [Victoire](https://gith
 - [le site de l'agence](https://troopers.agency)
 - [le blog de l'équipe](https://troopers.agency/fr/blog)
 - [![Twitter Follow](https://img.shields.io/twitter/follow/troopersagency.svg?style=social&label=Follow)](https://twitter.com/troopersagency)
-- [![Github Follow](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://twitter.com/troopersagency)
 - [Facebook](https://facebook.com/TroopersAgency)
 - [LinkedIn](https://www.linkedin.com/company/10814873)
 - [nos projets et contributions open-source (Github)](https://github.com/Troopers)
