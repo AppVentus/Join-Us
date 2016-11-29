@@ -2,13 +2,6 @@
 
 *Résumé* : Ce document modifié par l'Agence [Troopers](https://troopers.agency) sur une idée originale de l'Agence [Les Polypodes](http://lespolypodes.com/) propose quelques conseils pratiques pour préparer son entretien d'embauche, pour un stage ou un emploi.
 
-* version : 1.0.0
-* auteurs : 
-* - [Ronan Guilloux](mailto:ronan@lespolypodes.com), [Les Polypodes](http://lespolypodes.com/) SARL (Nantes, France)
-* - [Leny BERNARD](mailto:contact@troopers.email), [Troopers](https://troopers.agency)
-* licence : [CC by-sa 3.0 fr](http://creativecommons.org/licenses/by-sa/3.0/fr/)
-
-
 ## Ces choses qu'on voudrait *absolument* voir : 
 
 Des essais, des prototypes, des démos, des maquettes, des sites en production. Idéalement, des contributions _open-source_, mais à défaut, un site en ligne, du code partagé sur une URL, ou même visible sur votre machine personnelle. Si vous êtes étudiant(e) et que vous cherchez un stage, vos TP gagneraient à être mis en ligne, sur un site de partage adapté, comme [Github](http://github.com), [BitBucket](https://bitbucket.org) ou [Gitorious](https://gitorious.org). Si vous êtes intégrateur(trice) ou designer, peut-être avez-vous déjà publié vos travaux sur [JsFiddle](http://jsfiddle.net), [Codepen.io](http://codepen.io), [Behance](https://www.behance.net) ou [Dribbble](https://dribbble.com/) ? Même ce qui n'est pas _complètement_ fini est présentable, mais présentez-nous au moins un projet de votre cru. Comprenez que votre CV n'est qu'une convention, et il ne suffira pas à nous présenter ce que vous savez *vraiment* faire.
