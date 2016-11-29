@@ -26,3 +26,8 @@ Depuis 2013, l'Agence s'est lancée dans la création de [Victoire](https://gith
 ## [Préparez votre entretien](BraceYourself.md) (ou pas :))
 
 
+* auteurs : 
+* - [Ronan Guilloux](mailto:ronan@lespolypodes.com)
+* - [Leny BERNARD](mailto:contact@troopers.email) 
+[![Github Follow](https://img.shields.io/github/followers/lenybernard.svg?style=social&label=Follow)](https://github.com/lenybernard)
+* licence : [CC by-sa 3.0 fr](http://creativecommons.org/licenses/by-sa/3.0/fr/)
